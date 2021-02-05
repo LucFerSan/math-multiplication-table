@@ -1,24 +1,24 @@
 <p align="center">
-  <h3 align="center">Dev Finances</h3>
+  <h3 align="center">Math Multiplication Table</h3>
 
   <p align="center">
-    A simple website that takes care of finances!
+    A simple website that shows the multiplication table of a given number.
     <br />
-    <a href="https://github.com/LucFerSan/dev-finances-discover"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LucFerSan/math-multiplication-table.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/LucFerSan/dev-finances-discover/issues">Report Bug</a>
+    <a href="https://github.com/LucFerSan/math-multiplication-table.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/LucFerSan/dev-finances-discover/issues">Request Feature</a>
+    <a href="https://github.com/LucFerSan/math-multiplication-table.git/issues">Request Feature</a>
   </p>
 </p>
 
 ## About The Project
 
-![Dev finances](.github/dashboard-dark.png)
+![Math Multiplication Table](.github/math-table.png)
 
-A responsive website, in which you can control incomes and expenses visually.
+A simple website that shows the multiplication table of a given number, made with simple html, css and vanilla javascript.
 
 ### Built With
 
@@ -30,20 +30,8 @@ A responsive website, in which you can control incomes and expenses visually.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/LucFerSan/dev-finances-discover.git
+   git clone https://github.com/LucFerSan/math-multiplication-table.git.git
    ```
-
-## Usage
-
-<p float="left">
-  <img src=".github/dashboard-dark.png" width="390" />
-  <img src=".github/dashboard.png" width="390" /> 
-</p>
-
-<p float="left">
-  <img src=".github/modal-dark.png" width="390" />
-  <img src=".github/modal.png" width="390" /> 
-</p>
 
 ## Contributing
 
@@ -63,9 +51,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Lucas Fernandes - fernandes.lucas11@outlook.com
 
-Project Link: [https://github.com/LucFerSan/dev-finances-discover](https://github.com/LucFerSan/dev-finances-discover)
-
-### Special thanks to
-
-- [Mayk Brito](https://github.com/maykbrito)
-- [Rocketseat](https://github.com/Rocketseat)
+Project Link: [https://github.com/LucFerSan/math-multiplication-table.git](https://github.com/LucFerSan/math-multiplication-table.git)
