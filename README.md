@@ -30,7 +30,7 @@ A simple website that shows the multiplication table of a given number, made wit
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/LucFerSan/math-multiplication-table.git.git
+   git clone https://github.com/LucFerSan/math-multiplication-table.git
    ```
 
 ## Contributing
